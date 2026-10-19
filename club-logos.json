@@ -1,0 +1,27 @@
+{
+  "Celtics MC": {
+    "image": "assets/logo-celtics.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Psycho Mekanix": {
+    "image": "assets/logo-psycho-mekanix.svg",
+    "source": "assets/flyer-23.jpg",
+    "type": "logo"
+  },
+  "The Ghosts": {
+    "image": "assets/logo-the-ghosts.svg",
+    "source": "assets/flyer-27.jpg",
+    "type": "logo"
+  },
+  "Brother of Cause": {
+    "image": "assets/logo-brother-of-cause.svg",
+    "source": "assets/events-146112.jpg",
+    "type": "logo"
+  },
+  "70’s Blood": {
+    "image": "assets/logo-70s-blood.svg",
+    "source": "assets/flyer-30.jpg",
+    "type": "logo"
+  }
+}

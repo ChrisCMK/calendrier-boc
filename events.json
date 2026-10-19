@@ -1,0 +1,862 @@
+[
+  {
+    "date": "2026-01-31",
+    "title": "Rock’n Crêpes Party",
+    "club": "Hells Angels Lausanne",
+    "time": "19:00",
+    "place": "Lausanne",
+    "image": "assets/flyer-0.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-02-20",
+    "club": "Horde of Eagles",
+    "title": "Open House",
+    "time": "19:00",
+    "place": "Rue des Eterpaz 54, Vallorbe",
+    "image": "assets/events-146094.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-02-21",
+    "club": "Baladia’s Crew",
+    "title": "Open House",
+    "time": "19:00",
+    "place": "Lieu non précisé sur le flyer",
+    "image": "assets/events-146087.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-02-21",
+    "title": "Soirée raclette",
+    "club": "Les Ours",
+    "time": "19:30",
+    "place": "Chemin de la Biole 8, Aigle",
+    "image": "assets/flyer-1.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-02-28",
+    "club": "Onze pourcent",
+    "title": "Dîner convivial",
+    "time": "",
+    "place": "Route de Pomy 2A, 1462 Yvonand",
+    "image": "assets/events-146093.jpg",
+    "note": "Réservation avant le 25 février. Horaire non précisé sur le flyer."
+  },
+  {
+    "date": "2026-02-28",
+    "title": "Open House",
+    "club": "Street Chopper’s",
+    "time": "20:00",
+    "place": "Forel",
+    "image": "assets/flyer-2.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-03-07",
+    "title": "Hot-Dog Night",
+    "club": "Red Devils",
+    "time": "20:00",
+    "place": "Route de Villars, Estavayer",
+    "image": "assets/hot-dog-night-annule.jpg",
+    "note": "Annulé selon le flyer de l’album EVENTS."
+  },
+  {
+    "date": "2026-03-13",
+    "title": "Open House",
+    "club": "Horde of Eagles",
+    "time": "19:00",
+    "place": "Rue des Eterpaz 54, Vallorbe",
+    "image": "assets/flyer-4.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-03-14",
+    "title": "St-Patrick",
+    "club": "Ravens MC",
+    "time": "",
+    "place": "Lieu non précisé sur le flyer",
+    "image": "assets/ravens-mc-2026.jpg",
+    "note": "Horaire et lieu exact non précisés sur l’affiche annuelle. Ravens MC Neuchâtel."
+  },
+  {
+    "date": "2026-03-14",
+    "title": "Carnaval · 3 ans",
+    "club": "Baladia’s Crew",
+    "time": "11:00",
+    "place": "Lieu indiqué sur invitation",
+    "image": "assets/flyer-5.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-03-21",
+    "club": "Les Ours",
+    "title": "Soirée fondue",
+    "time": "",
+    "place": "Chemin de la Biole 8, Aigle",
+    "image": "assets/events-146090.jpg",
+    "note": "Horaire non précisé sur l’affiche annuelle."
+  },
+  {
+    "date": "2026-03-21",
+    "club": "Hells Angels Lausanne",
+    "title": "Sexy Show",
+    "time": "19:00",
+    "place": "Au clubhouse",
+    "image": "assets/events-146105.jpg",
+    "note": "Adultes uniquement · année 2026 confirmée par l’affiche annuelle."
+  },
+  {
+    "date": "2026-03-29",
+    "club": "Sons of Dardania",
+    "title": "Open House",
+    "time": "11:00",
+    "place": "Zone industrielle Moulin du Choc D, 1122 Romanel-sur-Morges",
+    "image": "assets/events-146095.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-04-03",
+    "title": "Hot-Dog Night",
+    "club": "Red Devils",
+    "time": "20:00",
+    "place": "Route de Villars, Estavayer",
+    "image": "assets/flyer-6.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-04-11",
+    "club": "Les Ours",
+    "title": "Open Bar",
+    "time": "19:00",
+    "place": "Chemin de la Biole 8, Aigle",
+    "image": "assets/events-100326.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-04-24",
+    "title": "Soirée Bifana",
+    "club": "GFM100 Chumbo",
+    "time": "19:00",
+    "place": "Chemin des Châ. 7, Cortaillod",
+    "image": "assets/flyer-7.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-04-25",
+    "title": "Open Season",
+    "club": "Ravens MC",
+    "time": "",
+    "place": "Lieu non précisé sur le flyer",
+    "image": "assets/ravens-mc-2026.jpg",
+    "note": "Horaire et lieu exact non précisés sur l’affiche annuelle. Ravens MC Neuchâtel."
+  },
+  {
+    "date": "2026-04-25",
+    "club": "The Ghosts",
+    "title": "1er anniversaire · Rassemblement motard",
+    "time": "10:00",
+    "place": "Notre-Dame-de-Tours 3, 1774 Cousset",
+    "image": "assets/events-146111.jpg",
+    "note": "Événement sur deux jours, les 25 et 26 avril. Année 2026 d’après le programme de l’album."
+  },
+  {
+    "date": "2026-04-25",
+    "club": "Street Chopper’s",
+    "title": "Open House",
+    "time": "20:00",
+    "place": "Lieu non précisé sur le flyer",
+    "image": "assets/events-146110.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-04-26",
+    "club": "The Ghosts",
+    "title": "1er anniversaire · Rassemblement motard",
+    "time": "08:30",
+    "place": "Notre-Dame-de-Tours 3, 1774 Cousset",
+    "image": "assets/events-146111.jpg",
+    "note": "Événement sur deux jours, les 25 et 26 avril. Année 2026 d’après le programme de l’album."
+  },
+  {
+    "date": "2026-05-02",
+    "club": "Brother of Cause",
+    "title": "Run · Backstage Gland",
+    "time": "09:30",
+    "place": "Route de Bellevue 1C, 1029 Villars-Sainte-Croix",
+    "image": "assets/events-146112.jpg",
+    "note": "Café et accueil à 9h30 · arrivée prévue à Gland à 12h."
+  },
+  {
+    "date": "2026-05-02",
+    "club": "Baladia’s Crew",
+    "title": "Run & Grillade",
+    "time": "15:00",
+    "place": "Lieu de départ non précisé sur le flyer",
+    "image": "assets/events-146113.jpg",
+    "note": "Départ du run à 15h30."
+  },
+  {
+    "date": "2026-05-08",
+    "club": "Liberty`s",
+    "title": "Open House · Ramène ton steak",
+    "time": "19:00",
+    "place": "Chemin de la Clé des Champs, 2022 Bevaix",
+    "image": "assets/events-146137.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-05-16",
+    "club": "Os estarolas",
+    "title": "5e anniversaire",
+    "time": "10:00",
+    "place": "Couvert du Bois Noir, Saint-Maurice",
+    "image": "assets/events-146119.jpg",
+    "note": "Événement sur deux jours. Année 2026 d’après le programme de l’album."
+  },
+  {
+    "date": "2026-05-17",
+    "club": "Os estarolas",
+    "title": "5e anniversaire",
+    "time": "09:30",
+    "place": "Couvert du Bois Noir, Saint-Maurice",
+    "image": "assets/events-146119.jpg",
+    "note": "Événement sur deux jours. Année 2026 d’après le programme de l’album."
+  },
+  {
+    "date": "2026-05-22",
+    "club": "Hells Angels Lausanne",
+    "title": "Événement · Programme 2026",
+    "time": "",
+    "place": "Lausanne · lieu à confirmer",
+    "image": "assets/events-146089.jpg",
+    "note": "Nom, horaire et lieu exact non précisés sur l’affiche annuelle. Consulter l’annonce détaillée du club."
+  },
+  {
+    "date": "2026-05-23",
+    "title": "Première ouverture · Run moto",
+    "club": "Brother of Cause",
+    "time": "13:00",
+    "place": "Route de Bellevue / Polyparc, Villars-Sainte-Croix",
+    "image": "assets/flyer-8.jpg",
+    "note": "Affiche initiale ; événement déplacé au 12 juin selon le club."
+  },
+  {
+    "date": "2026-05-30",
+    "title": "Open House",
+    "club": "Street Chopper’s",
+    "time": "20:00",
+    "place": "Route de Moudon 19, Forel",
+    "image": "assets/flyer-9.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-06-06",
+    "club": "Baladia’s Crew",
+    "title": "Open House",
+    "time": "19:00",
+    "place": "Lieu non précisé sur le flyer",
+    "image": "assets/events-146120.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-06-12",
+    "title": "Open B.O.C.",
+    "club": "Brother of Cause",
+    "time": "19:30",
+    "place": "Route de Bellevue / Polyparc, Villars-Sainte-Croix",
+    "image": "assets/flyer-10.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-06-13",
+    "title": "3 Years Anniversary",
+    "club": "Horde of Eagles",
+    "time": "10:00",
+    "place": "Rue des Eterpaz 54, Vallorbe",
+    "image": "assets/flyer-11.jpg",
+    "note": "Run à 11:00."
+  },
+  {
+    "date": "2026-06-20",
+    "title": "6e Run des Ours",
+    "club": "Les Ours",
+    "time": "10:00",
+    "place": "Chemin de la Biole 8, Aigle",
+    "image": "assets/events-146118.jpg",
+    "note": "Annulé selon le flyer de l’album EVENTS."
+  },
+  {
+    "date": "2026-06-27",
+    "title": "Noite de São João",
+    "club": "GFM100 Chumbo",
+    "time": "19:00",
+    "place": "Cortaillod",
+    "image": "assets/flyer-13.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-07-04",
+    "title": "Grill Party",
+    "club": "Ravens MC",
+    "time": "",
+    "place": "Lieu non précisé sur le flyer",
+    "image": "assets/ravens-mc-2026.jpg",
+    "note": "Horaire et lieu exact non précisés sur l’affiche annuelle. Ravens MC Neuchâtel."
+  },
+  {
+    "date": "2026-07-04",
+    "club": "Baladia’s Crew",
+    "title": "Apéro · Poutine · Run chez White Beast",
+    "time": "10:00",
+    "place": "Lieu de départ non précisé sur le flyer",
+    "image": "assets/events-146136.jpg",
+    "note": "Poutine à 11h · départ du run à 15h30."
+  },
+  {
+    "date": "2026-07-04",
+    "club": "Somos nos",
+    "title": "12e Convivialité",
+    "time": "10:00",
+    "place": "Notre-Dame-de-Tours 3, 1774 Cousset",
+    "image": "assets/events-146134.jpg",
+    "note": "Événement sur deux jours, les 4 et 5 juillet 2026."
+  },
+  {
+    "date": "2026-07-04",
+    "title": "7e anniversaire",
+    "club": "White Beast",
+    "time": "15:00",
+    "place": "L’Antre du Dragon, Vétroz",
+    "image": "assets/flyer-14.jpg",
+    "note": "Run à 16:30."
+  },
+  {
+    "date": "2026-07-05",
+    "club": "Somos nos",
+    "title": "12e Convivialité",
+    "time": "08:00",
+    "place": "Notre-Dame-de-Tours 3, 1774 Cousset",
+    "image": "assets/events-146134.jpg",
+    "note": "Événement sur deux jours, les 4 et 5 juillet 2026."
+  },
+  {
+    "date": "2026-07-10",
+    "club": "Liberty`s",
+    "title": "Open House · Ramène ton steak",
+    "time": "19:00",
+    "place": "Chemin de la Clé des Champs, 2022 Bevaix",
+    "image": "assets/events-146137.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-07-11",
+    "club": "70’s Blood",
+    "title": "Saucisses au grill",
+    "time": "11:00",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/events-146131.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-07-17",
+    "title": "Open House",
+    "club": "Horde of Eagles",
+    "time": "19:00",
+    "place": "Rue des Eterpaz 54, Vallorbe",
+    "image": "assets/flyer-15.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-07-25",
+    "club": "Les Ours",
+    "title": "Grillades Party · Annulé",
+    "time": "11:00",
+    "place": "Chemin de la Biole 8, Aigle",
+    "image": "assets/events-146133.jpg",
+    "note": "Annulé selon le flyer. Grillades initialement prévues à 14h."
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Saucisse et frites",
+    "club": "Baladia’s Crew",
+    "time": "19:00",
+    "place": "Lieu indiqué sur invitation",
+    "image": "assets/flyer-16.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-08-14",
+    "title": "Open House",
+    "club": "Horde of Eagles",
+    "time": "19:00",
+    "place": "Rue des Eterpaz 54, Vallorbe",
+    "image": "assets/flyer-17.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-08-29",
+    "club": "Hells Angels Lausanne",
+    "title": "Événement · Programme 2026",
+    "time": "",
+    "place": "Lausanne · lieu à confirmer",
+    "image": "assets/events-146089.jpg",
+    "note": "Nom, horaire et lieu exact non précisés sur l’affiche annuelle. Consulter l’annonce détaillée du club."
+  },
+  {
+    "date": "2026-08-29",
+    "title": "Meeting associatif · Bifana",
+    "club": "Street Chopper’s",
+    "time": "10:00",
+    "place": "Route de Moudon 19, Forel",
+    "image": "assets/flyer-18.jpg",
+    "note": "Meeting dès 11:00."
+  },
+  {
+    "date": "2026-09-05",
+    "title": "14e Broche des Ours",
+    "club": "Les Ours",
+    "time": "11:00",
+    "place": "Chemin de la Biole 8, Aigle",
+    "image": "assets/flyer-19.jpg",
+    "note": "Rôtis à 14:00."
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Open House",
+    "club": "Horde of Eagles",
+    "time": "19:00",
+    "place": "Rue des Eterpaz 54, Vallorbe",
+    "image": "assets/flyer-20.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-09-12",
+    "club": "Baladia’s Crew",
+    "title": "Pâte du chalet",
+    "time": "",
+    "place": "Lieu non précisé sur le flyer",
+    "image": "assets/events-146116.jpg",
+    "note": "Horaire non précisé sur l’affiche annuelle."
+  },
+  {
+    "date": "2026-09-19",
+    "club": "Solitarios sobre rodas",
+    "title": "Sardinhada",
+    "time": "17:00",
+    "place": "Lieu non précisé sur le flyer",
+    "image": "assets/gmail-solitarios-sardinhada-2026.png",
+    "note": "Menu sardinhada, avec option porc grillé."
+  },
+  {
+    "date": "2026-09-19",
+    "club": "Street Chopper’s",
+    "title": "Open House",
+    "time": "19:00",
+    "place": "Lieu non précisé sur le flyer",
+    "image": "assets/events-146150.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Le club est ouvert",
+    "club": "Brother of Cause",
+    "time": "19:30",
+    "place": "Route de Bellevue / Polyparc, Villars-Sainte-Croix",
+    "image": "assets/flyer-21.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-09-24",
+    "club": "70’s Blood",
+    "title": "Les Jeudredis · First Open",
+    "time": "18:00",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/events-146151.jpg",
+    "note": "18:00–22:00."
+  },
+  {
+    "date": "2026-09-25",
+    "title": "Open Drink",
+    "club": "Partisans",
+    "time": "19:00",
+    "place": "Poststrasse 48, Bienne",
+    "image": "assets/flyer-22.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-09-26",
+    "title": "26e anniversaire",
+    "club": "Celtics MC",
+    "time": "18:00",
+    "place": "Au clubhouse",
+    "image": "assets/flyer-24.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-09-26",
+    "title": "15e anniversaire",
+    "club": "Psycho Mekanix",
+    "time": "18:00",
+    "place": "Cantine des Planches, rte de Monchérand 1, Valeyres-sous-Rances",
+    "image": "assets/flyer-23.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Club exceptionnellement fermé",
+    "club": "Psycho Mekanix",
+    "time": "",
+    "place": "Clubhouse",
+    "image": "assets/flyer-26.jpg",
+    "note": "Fermeture annoncée ; aucune sortie ce soir-là."
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Indian Summer Support Party",
+    "club": "Hells Angels Lausanne",
+    "time": "19:00",
+    "place": "Chemin de la Colice 2, Crissier",
+    "image": "assets/flyer-25.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Festa Francesinha",
+    "club": "The Ghosts",
+    "time": "15:00",
+    "place": "Rte du P.A.A. 27, Grolley",
+    "image": "assets/flyer-27.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Soirée raclette",
+    "club": "Les Ours",
+    "time": "19:30",
+    "place": "Chemin de la Biole 8, Aigle",
+    "image": "assets/flyer-28.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Les Jeudredis",
+    "club": "70’s Blood",
+    "time": "18:00",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/flyer-29.jpg",
+    "note": "18:00–22:00. Dates explicites de l’affiche."
+  },
+  {
+    "date": "2026-10-09",
+    "title": "Soirée raclette",
+    "club": "God’s Squad",
+    "time": "19:00",
+    "place": "God’s River House",
+    "image": "assets/flyer-32.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-10-09",
+    "title": "Open House",
+    "club": "Horde of Eagles",
+    "time": "19:00",
+    "place": "Rue des Eterpaz 54, Vallorbe",
+    "image": "assets/flyer-31.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-10-10",
+    "title": "7th Ravens Day",
+    "club": "Ravens MC",
+    "time": "",
+    "place": "Lieu non précisé sur le flyer",
+    "image": "assets/ravens-mc-2026.jpg",
+    "note": "Horaire et lieu exact non précisés sur l’affiche annuelle. Ravens MC Neuchâtel."
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Grillades · Grelhada de convívio",
+    "club": "Grupo Motard APMA",
+    "time": "17:30",
+    "place": "Chemin du Marais 6, 1032 Romanel-sur-Lausanne",
+    "image": "assets/flyer-20-rodas-2026-10-17.jpg",
+    "note": "Entrée libre. Réservation du repas nécessaire : [contact retiré]"
+  },
+  {
+    "date": "2026-10-17",
+    "club": "Mohawk MC Lucerne",
+    "title": "15e anniversaire",
+    "time": "18:00",
+    "place": "Longhouse, Emmenbrücke",
+    "image": "assets/events-146534.jpg",
+    "note": "Entrée libre · Food, drinks et musique live."
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Les Jeudredis",
+    "club": "70’s Blood",
+    "time": "18:00",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/gmail-70s-jeudredis-2026.jpg",
+    "note": "18:00–22:00. Invitation confirmée par le club."
+  },
+  {
+    "date": "2026-10-23",
+    "club": "Red Slayers MC Doubs",
+    "title": "Open House",
+    "time": "",
+    "place": "17 route de Pontarlier, 25300 Granges-Narboz, France",
+    "image": "assets/red-slayers-doubs-2026-10-23.jpg",
+    "note": "Club privé. Horaire non précisé sur le flyer. Année 2026 d’après le contexte de l’album."
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Crossroad Party",
+    "club": "Evel Rowdies MC West",
+    "time": "18:00",
+    "place": "Clubhouse 518, route des Marais 5, 1860 Aigle",
+    "image": "assets/evel-rowdies-crossroad-2026-10-24.jpg",
+    "note": "Bifanas · Bikes, friends, beer et musique · Club privé."
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Halloween · Soupe à la courge",
+    "club": "Brother of Cause",
+    "time": "19:30",
+    "place": "Route de Bellevue / Polyparc, Villars-Sainte-Croix",
+    "image": "assets/flyer-33.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-10-30",
+    "club": "Partisans",
+    "title": "Open Drink",
+    "time": "19:00",
+    "place": "Poststrasse 48, 2504 Bienne",
+    "image": "assets/partisans-2026-10-30.jpg",
+    "note": "De 19h jusqu’à fermeture · Club privé. Année 2026 d’après le contexte de l’album."
+  },
+  {
+    "date": "2026-10-31",
+    "time": "19:00",
+    "club": "Psycho Mekanix",
+    "title": "Open : Psycho Mekaniks",
+    "place": "Lieu à confirmer",
+    "image": "assets/logo-psycho-mekanix.svg",
+    "note": "Importé depuis le Google Agenda B.O.C.",
+    "imageType": "logo"
+  },
+  {
+    "date": "2026-11-06",
+    "club": "Hells Angels Lausanne",
+    "title": "Événement · Programme 2026",
+    "time": "19:00",
+    "place": "Lausanne · lieu à confirmer",
+    "image": "assets/events-146089.jpg",
+    "note": "Nom, horaire et lieu exact non précisés sur l’affiche annuelle. Consulter l’annonce détaillée du club."
+  },
+  {
+    "date": "2026-11-07",
+    "club": "Les Ours",
+    "title": "Soirée fondue",
+    "time": "",
+    "place": "Chemin de la Biole 8, Aigle",
+    "image": "assets/events-146090.jpg",
+    "note": "Horaire non précisé sur l’affiche annuelle."
+  },
+  {
+    "date": "2026-11-07",
+    "title": "Open House",
+    "club": "Capital Bloods",
+    "time": "20:00",
+    "place": "Route des Neigles 33, Fribourg",
+    "image": "assets/flyer-34.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Les Jeudredis",
+    "club": "70’s Blood",
+    "time": "18:00",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/gmail-70s-jeudredis-2026.jpg",
+    "note": "18:00–22:00. Invitation confirmée par le club."
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Hunting Season",
+    "club": "Ravens MC",
+    "time": "",
+    "place": "Lieu non précisé sur le flyer",
+    "image": "assets/ravens-mc-2026.jpg",
+    "note": "Horaire et lieu exact non précisés sur l’affiche annuelle. Ravens MC Neuchâtel."
+  },
+  {
+    "date": "2026-11-21",
+    "club": "Liberty`s",
+    "title": "Soirée raclette",
+    "time": "19:00",
+    "place": "Chemin de la Clé des Champs, 2022 Bevaix",
+    "image": "assets/events-146137.jpg",
+    "note": "Sur réservation."
+  },
+  {
+    "date": "2026-11-21",
+    "time": "19:30",
+    "club": "Brother of Cause",
+    "title": "Brother Of Cause : Open House",
+    "place": "Route de Bellevue 7 · Villars-Ste-Croix, Suisse",
+    "image": "assets/logo-brother-of-cause.svg",
+    "note": "Importé depuis le Google Agenda B.O.C.",
+    "imageType": "logo"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Les Jeudredis",
+    "club": "70’s Blood",
+    "time": "18:00",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/gmail-70s-jeudredis-2026.jpg",
+    "note": "18:00–22:00. Invitation confirmée par le club."
+  },
+  {
+    "date": "2026-11-28",
+    "time": "19:00",
+    "club": "Celtics MC",
+    "title": "Celtics MC : Support Party",
+    "place": "Lieu à confirmer",
+    "image": "assets/logo-celtics.png",
+    "note": "Importé depuis le Google Agenda B.O.C.",
+    "imageType": "logo"
+  },
+  {
+    "date": "2026-12-10",
+    "title": "Les Jeudredis",
+    "club": "70’s Blood",
+    "time": "18:00",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/gmail-70s-jeudredis-2026.jpg",
+    "note": "18:00–22:00. Invitation confirmée par le club."
+  },
+  {
+    "date": "2026-12-19",
+    "time": "15:00",
+    "club": "The Ghosts",
+    "title": "Open house : The Ghosts Loyalty",
+    "place": "Rte du Parc Automobiles de l'Armée 27, 1772 Grolley, Suisse",
+    "image": "assets/logo-the-ghosts.svg",
+    "note": "Importé depuis le Google Agenda B.O.C.",
+    "imageType": "logo"
+  },
+  {
+    "date": "2027-02-05",
+    "title": "Rugby · Tournoi des Six Nations",
+    "club": "70’s Blood",
+    "time": "20:10",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/flyer-35.jpg",
+    "note": "Ouverture 1 heure avant le premier match. Horaires selon le calendrier joint."
+  },
+  {
+    "date": "2027-02-06",
+    "title": "Rugby · Tournoi des Six Nations",
+    "club": "70’s Blood",
+    "time": "14:10",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/flyer-36.jpg",
+    "note": "Ouverture 1 heure avant le premier match. Horaires selon le calendrier joint."
+  },
+  {
+    "date": "2027-02-13",
+    "title": "Rugby · Tournoi des Six Nations",
+    "club": "70’s Blood",
+    "time": "14:10",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/flyer-37.jpg",
+    "note": "Ouverture 1 heure avant le premier match. Horaires selon le calendrier joint."
+  },
+  {
+    "date": "2027-02-14",
+    "title": "Rugby · Tournoi des Six Nations",
+    "club": "70’s Blood",
+    "time": "15:10",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/flyer-38.jpg",
+    "note": "Ouverture 1 heure avant le premier match. Horaires selon le calendrier joint."
+  },
+  {
+    "date": "2027-02-20",
+    "title": "Rugby · Tournoi des Six Nations",
+    "club": "70’s Blood",
+    "time": "14:10",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/flyer-39.jpg",
+    "note": "Ouverture 1 heure avant le premier match. Horaires selon le calendrier joint."
+  },
+  {
+    "date": "2027-02-21",
+    "title": "Rugby · Tournoi des Six Nations",
+    "club": "70’s Blood",
+    "time": "15:10",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/flyer-40.jpg",
+    "note": "Ouverture 1 heure avant le premier match. Horaires selon le calendrier joint."
+  },
+  {
+    "date": "2027-03-05",
+    "title": "Rugby · Tournoi des Six Nations",
+    "club": "70’s Blood",
+    "time": "20:10",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/flyer-41.jpg",
+    "note": "Ouverture 1 heure avant le premier match. Horaires selon le calendrier joint."
+  },
+  {
+    "date": "2027-03-06",
+    "title": "Rugby · Tournoi des Six Nations",
+    "club": "70’s Blood",
+    "time": "14:10",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/flyer-42.jpg",
+    "note": "Ouverture 1 heure avant le premier match. Horaires selon le calendrier joint."
+  },
+  {
+    "date": "2027-03-13",
+    "title": "Rugby · Tournoi des Six Nations",
+    "club": "70’s Blood",
+    "time": "14:10",
+    "place": "Chemin du Montillier 7, Vucherens",
+    "image": "assets/flyer-43.jpg",
+    "note": "Ouverture 1 heure avant le premier match. Horaires selon le calendrier joint."
+  },
+  {
+    "date": "2027-05-21",
+    "time": "",
+    "club": "The Ghosts",
+    "title": "The Ghosts Loyalty",
+    "place": "Lieu à confirmer",
+    "image": "assets/logo-the-ghosts.svg",
+    "note": "Importé depuis le Google Agenda B.O.C. · Jusqu’au 23.05.2027",
+    "imageType": "logo"
+  },
+  {
+    "date": "2026-10-31",
+    "time": "16:00",
+    "club": "Howlers MC",
+    "title": "Full Patch Party",
+    "place": "Route de Pré Bérard 16, 1870 Monthey",
+    "image": "assets/howlers-full-patch-2026-10-31.jpg",
+    "note": ""
+  },
+  {
+    "date": "2026-10-31",
+    "time": "19:00",
+    "club": "Street Chopper’s",
+    "title": "Open House · Halloween",
+    "place": "Lieu non précisé sur le flyer",
+    "image": "assets/street-choppers-halloween-2026-10-31.jpg",
+    "note": "Food · Music · Drinks. Adresse de cet événement à confirmer."
+  }
+]
