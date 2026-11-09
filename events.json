@@ -857,5 +857,33 @@
     "image": "assets/logo-the-ghosts.svg",
     "note": "Importé depuis le Google Agenda B.O.C. · Jusqu’au 23.05.2027",
     "imageType": "logo"
+  },
+  {
+    "date": "2026-11-21",
+    "time": "18:00",
+    "club": "70’s Blood",
+    "title": "Soirée raclette",
+    "place": "Lieu à confirmer",
+    "image": "assets/70s-blood-raclette-20261121.jpg",
+    "note": "Ouverture dès 18 h. L’adresse n’est pas indiquée sur le flyer.",
+    "source_album_item_id": "162563"
+  },
+  {
+    "date": "2026-12-05",
+    "time": "17:00",
+    "club": "Onze pourcent",
+    "title": "AFM · 2e anniversaire",
+    "place": "Chemin de la Cantine, Vuiteboeuf",
+    "image": "assets/afm-anniversaire-2026-12-05.jpg",
+    "note": "Animation musicale : Zé Pereira. Réservations jusqu’au 1er décembre. Fin non précisée sur le flyer."
+  },
+  {
+    "date": "2026-11-14",
+    "title": "13e anniversaire",
+    "club": "Somos nos",
+    "time": "16:00",
+    "place": "Lieu non précisé dans Google Agenda",
+    "image": "",
+    "note": "Source : Google Agenda B.O.C. Fin indiquée à 23 h 30 dans l’agenda. Flyer non disponible."
   }
 ]
