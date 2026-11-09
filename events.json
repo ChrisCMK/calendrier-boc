@@ -894,5 +894,14 @@
     "place": "Rue des Eterpaz 54, 1337 Vallorbe",
     "image": "assets/horde-of-eagles-vin-chaud-2026-11-13.jpg",
     "note": "Club privé · Food, drink et musique."
+  },
+  {
+    "date": "2026-11-21",
+    "time": "17:00",
+    "club": "Solitarios sobre rodas",
+    "title": "Grande abertura · Arroz de cabidela",
+    "place": "Route des Marais 5, 1860 Aigle",
+    "image": "assets/solitarios-grande-abertura-2026-11-21.jpg",
+    "note": "Ouverture dès 17 h · Tous sont les bienvenus."
   }
 ]
