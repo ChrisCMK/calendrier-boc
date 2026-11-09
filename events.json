@@ -885,5 +885,14 @@
     "place": "Lieu non précisé dans Google Agenda",
     "image": "",
     "note": "Source : Google Agenda B.O.C. Fin indiquée à 23 h 30 dans l’agenda. Flyer non disponible."
+  },
+  {
+    "date": "2026-11-13",
+    "time": "19:00",
+    "club": "Horde of Eagles",
+    "title": "Open House · Vin chaud",
+    "place": "Rue des Eterpaz 54, 1337 Vallorbe",
+    "image": "assets/horde-of-eagles-vin-chaud-2026-11-13.jpg",
+    "note": "Club privé · Food, drink et musique."
   }
 ]
