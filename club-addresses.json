@@ -1,0 +1,172 @@
+[
+  {
+    "club": "Mohawks MC",
+    "chapter": "Lucerne · Longhouse13",
+    "address": "Schulhausstrasse 21, 6020 Emmenbrücke",
+    "kind": "Clubhouse",
+    "source": "https://www.mohawk.ch/clubhaus",
+    "sourceLabel": "Site officiel"
+  },
+  {
+    "club": "Thors MC",
+    "chapter": "Limmattal · Clubhaus Asgard",
+    "address": "Industriestrasse 42, 8962 Bergdietikon",
+    "kind": "Clubhouse",
+    "source": "https://www.thors-mc.ch/thorsmc",
+    "sourceLabel": "Site officiel"
+  },
+  {
+    "club": "70' blood",
+    "address": "Chemin du Montillier 7, Vucherens",
+    "kind": "Adresse annoncée sur flyer",
+    "source": "assets/gmail-70s-jeudredis-2026.jpg",
+    "sourceLabel": "Voir le flyer"
+  },
+  {
+    "club": "Evel Rowdies MC",
+    "chapter": "West · Clubhouse 518",
+    "address": "Route des Marais 5, 1860 Aigle",
+    "kind": "Clubhouse · flyer du 24.10.2026",
+    "source": "assets/evel-rowdies-crossroad-2026-10-24.jpg",
+    "sourceLabel": "Voir le flyer"
+  },
+  {
+    "club": "Horde of Eagles",
+    "address": "Rue des Eterpaz 54, 1337 Vallorbe",
+    "kind": "Adresse annoncée sur flyer",
+    "source": "assets/horde-of-eagles-vin-chaud-2026-11-13.jpg",
+    "sourceLabel": "Voir le flyer"
+  },
+  {
+    "club": "Les Ours",
+    "address": "Chemin de la Biole 8, Aigle",
+    "kind": "Adresse annoncée sur flyer",
+    "source": "assets/flyer-28.jpg",
+    "sourceLabel": "Voir le flyer"
+  },
+  {
+    "club": "Liberty`s",
+    "address": "Chemin de la Clé des Champs, 2022 Bevaix",
+    "kind": "Adresse annoncée sur flyer",
+    "source": "assets/events-146137.jpg",
+    "sourceLabel": "Voir le flyer"
+  },
+  {
+    "club": "Brother of Cause",
+    "address": "Route de Bellevue / Polyparc, Villars-Sainte-Croix",
+    "kind": "Emplacement exact confirmé par le club · GPS 46.559040, 6.562436",
+    "mapsUrl": "https://maps.app.goo.gl/3fFEPxdRXdW7tZWq8",
+    "source": "https://maps.app.goo.gl/3fFEPxdRXdW7tZWq8",
+    "sourceLabel": "Point exact du club"
+  },
+  {
+    "club": "Onze pourcent",
+    "address": "Route de Pomy 2A, 1462 Yvonand",
+    "kind": "Adresse annoncée sur flyer",
+    "source": "assets/events-146093.jpg",
+    "sourceLabel": "Voir le flyer"
+  },
+  {
+    "club": "Red Slayers MC",
+    "chapter": "Doubs",
+    "address": "17 route de Pontarlier, 25300 Granges-Narboz, France",
+    "kind": "Adresse annoncée sur flyer du 23.10.2026",
+    "source": "assets/red-slayers-doubs-2026-10-23.jpg",
+    "sourceLabel": "Voir le flyer"
+  },
+  {
+    "club": "Street Chopper's",
+    "address": "Route de Moudon 19, Forel",
+    "kind": "Adresse annoncée sur flyer",
+    "source": "assets/flyer-18.jpg",
+    "sourceLabel": "Voir le flyer"
+  },
+  {
+    "club": "The Ghosts",
+    "address": "Route du Parc Automobiles de l’Armée 27, 1772 Grolley",
+    "kind": "Adresse annoncée sur flyer du 03.10.2026",
+    "source": "assets/flyer-27.jpg",
+    "sourceLabel": "Voir le flyer"
+  },
+  {
+    "club": "Cheyenne MC",
+    "chapter": "Clubhouse Hangar 3",
+    "address": "Kantonsstrasse 13, 6033 Buchrain",
+    "kind": "Clubhouse",
+    "source": "https://www.cheyennemc.ch/clubhaus/",
+    "sourceLabel": "Site officiel",
+    "verifiedDate": "2026-11-12"
+  },
+  {
+    "club": "Iron Drivers MC",
+    "chapter": "Willisau",
+    "address": "Menznauerstrasse 1, 6130 Willisau",
+    "kind": "Clubhouse",
+    "source": "https://www.irondriversmc.ch/blank-3",
+    "sourceLabel": "Site officiel",
+    "verifiedDate": "2026-11-12"
+  },
+  {
+    "club": "Hurricanes MC",
+    "chapter": "North",
+    "address": "Churfirstenstrasse 17, 8600 Dübendorf",
+    "kind": "Clubhouse",
+    "source": "https://hurricanes-mc.com/1",
+    "sourceLabel": "Site officiel",
+    "verifiedDate": "2026-11-12"
+  },
+  {
+    "club": "Wild Condors MC",
+    "chapter": "Tavannes · Clubhouse de Bévilard",
+    "address": "Rue Principale 1, 2735 Bévilard",
+    "kind": "Clubhouse",
+    "source": "https://wild-condors.ch/",
+    "sourceLabel": "Site officiel",
+    "verifiedDate": "2026-11-12"
+  },
+  {
+    "club": "Broncos MC",
+    "chapter": "Bern",
+    "address": "Seerain, 3053 Wiggiswil",
+    "kind": "Clubhouse",
+    "source": "https://www.broncos.events/",
+    "sourceLabel": "Site officiel",
+    "verifiedDate": "2026-11-12"
+  },
+  {
+    "club": "Broncos MC",
+    "chapter": "Emmental",
+    "address": "Emmenau 14, 3415 Hasle-Rüegsau",
+    "kind": "Clubhouse",
+    "source": "https://www.broncos.events/",
+    "sourceLabel": "Site officiel",
+    "verifiedDate": "2026-11-12"
+  },
+  {
+    "club": "Broncos MC",
+    "chapter": "Thun-City",
+    "address": "Stockhornstrasse 1, 3600 Thun",
+    "kind": "Clubhouse",
+    "source": "https://www.broncos.events/",
+    "sourceLabel": "Site officiel",
+    "verifiedDate": "2026-11-12"
+  },
+  {
+    "club": "Broncos MC",
+    "chapter": "Westside",
+    "address": "Ey 9, 3063 Ittigen",
+    "kind": "Clubhouse",
+    "source": "https://www.broncos.events/",
+    "sourceLabel": "Site officiel",
+    "verifiedDate": "2026-11-12"
+  },
+  {
+    "club": "Steel Eagle MC",
+    "chapter": "Stahlwerk",
+    "address": "Soodring 34, 8134 Adliswil",
+    "kind": "Clubhouse",
+    "source": "https://steeleaglemc.ch/veranstaltung/fotzel-schnitte/",
+    "sourceLabel": "Site officiel",
+    "verifiedDate": "2026-11-12"
+  }
+]

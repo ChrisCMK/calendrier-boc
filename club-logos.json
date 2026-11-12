@@ -5,7 +5,7 @@
     "type": "logo"
   },
   "Psycho Mekanix": {
-    "image": "assets/logo-psycho-mekanix.svg",
+    "image": "assets/logo-psycho-mekanix.png",
     "source": "assets/flyer-23.jpg",
     "type": "logo"
   },
@@ -22,6 +22,141 @@
   "70’s Blood": {
     "image": "assets/logo-70s-blood.svg",
     "source": "assets/flyer-30.jpg",
+    "type": "logo"
+  },
+  "Black Thunder MC": {
+    "image": "assets/logo-black-thunder.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Broncos MC": {
+    "image": "assets/logo-broncos.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Cheyenne MC": {
+    "image": "assets/logo-cheyenne.png",
+    "source": "https://www.cheyennemc.ch/clubhaus/",
+    "type": "logo"
+  },
+  "Dark Fighters MC": {
+    "image": "assets/logo-dark-fighters.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Devils MC": {
+    "image": "assets/logo-devils.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Dragons MC": {
+    "image": "assets/logo-dragons.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Evel Rowdies MC": {
+    "image": "assets/logo-evel-rowdies.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Falcons MC": {
+    "image": "assets/logo-falcons.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Hells Angels MC": {
+    "image": "assets/logo-hells-angels.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Hurricanes MC": {
+    "image": "assets/logo-hurricanes.png",
+    "source": "https://hurricanes-mc.com/1",
+    "type": "logo"
+  },
+  "Inglorious MC": {
+    "image": "assets/logo-inglorious.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Iron Drivers MC": {
+    "image": "assets/logo-iron-drivers.png",
+    "source": "https://www.irondriversmc.ch/",
+    "type": "logo"
+  },
+  "Maniacs MC": {
+    "image": "assets/logo-maniacs.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Mohawks MC": {
+    "image": "assets/logo-mohawks.jpg",
+    "source": "https://www.mohawk.ch/",
+    "type": "logo"
+  },
+  "Mojo MC": {
+    "image": "assets/logo-mojo.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Ramblers MC": {
+    "image": "assets/logo-ramblers.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Ravens MC": {
+    "image": "assets/logo-ravens.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Sabers MC": {
+    "image": "assets/logo-sabers.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Snakes MC": {
+    "image": "assets/logo-snakes.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Steel Eagle MC": {
+    "image": "assets/logo-steel-eagle.png",
+    "source": "https://steeleaglemc.ch/",
+    "type": "logo"
+  },
+  "Taurus MC": {
+    "image": "assets/logo-taurus.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Thors MC": {
+    "image": "assets/logo-thors.png",
+    "source": "https://www.thors-mc.ch/thorsmc",
+    "type": "logo"
+  },
+  "Tombstone Rats MC": {
+    "image": "assets/logo-tombstone-rats.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Wild Condors MC": {
+    "image": "assets/logo-wild-condors.png",
+    "source": "https://wild-condors.ch/",
+    "type": "logo"
+  },
+  "Bonefires MC": {
+    "image": "assets/logo-bonefires.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Nighthawks MC": {
+    "image": "assets/logo-nighthawks.png",
+    "source": "https://www.irondriversmc.ch/clubs",
+    "type": "logo"
+  },
+  "Rolling Devils MC": {
+    "image": "assets/logo-rolling-devils.png",
+    "source": "https://www.irondriversmc.ch/clubs",
     "type": "logo"
   }
 }
