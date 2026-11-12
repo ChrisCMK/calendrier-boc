@@ -865,8 +865,7 @@
     "title": "Soirée raclette",
     "place": "Lieu à confirmer",
     "image": "assets/70s-blood-raclette-20261121.jpg",
-    "note": "Ouverture dès 18 h. L’adresse n’est pas indiquée sur le flyer.",
-    "source_album_item_id": "162563"
+    "note": "Ouverture dès 18 h. L’adresse n’est pas indiquée sur le flyer."
   },
   {
     "date": "2026-12-05",
@@ -882,9 +881,9 @@
     "title": "13e anniversaire",
     "club": "Somos nos",
     "time": "16:00",
-    "place": "Lieu non précisé dans Google Agenda",
-    "image": "",
-    "note": "Source : Google Agenda B.O.C. Fin indiquée à 23 h 30 dans l’agenda. Flyer non disponible."
+    "place": "Notre-Dame-de-Tours 3, 1774 Cousset",
+    "image": "assets/somos-nos-13e-anniversaire-2026.jpg",
+    "note": "Ouverture à 16 h, marrons grillés à 16 h 30, DJ Angel à 17 h 30, souper à 19 h 30 et BSN Rock Band à 21 h 30. Entrée libre à la fête dès 20 h 30 sans repas. Le flyer et le message joint indiquent des échéances de réservation différentes (11 et 12 novembre)."
   },
   {
     "date": "2026-11-13",
