@@ -1,4 +1,4 @@
-const CACHE = 'boc-app-v7';
+const CACHE = 'boc-app-v8';
 const CORE = ['/', '/index.html', '/app.js', '/app.css', '/calendar-design.js', '/calendar-design.css', '/club-addresses.js', '/events.json', '/club-logos.json', '/club-websites.json', '/club-categories.json', '/club-addresses.json', '/manifest.webmanifest', '/icon-192.png', '/icon-512.png', '/apple-touch-icon.png'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(CORE)).then(() => self.skipWaiting()));
