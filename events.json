@@ -782,15 +782,15 @@
   },
   {
     "date": "2026-11-28",
-    "time": "19:00",
+    "time": "18:00",
     "club": "Celtics MC",
-    "title": "Celtics MC : Support Party",
-    "place": "Lieu à confirmer",
-    "image": "assets/logo-celtics.png",
-    "note": "Importé depuis le Google Agenda B.O.C.",
+    "title": "Fondue bourguignonne · Support Party",
+    "place": "Au clubhouse des Celtics MC",
+    "image": "assets/celtics-fondue-2026-11-28.jpg",
+    "note": "Places limitées. Réservations jusqu’au 25 novembre. Horaire confirmé sur le flyer Synology.",
     "source": "google-calendar",
     "sourceUid": "04l1jqp3fu3rhabq4mjm7sn62c@google.com",
-    "imageType": "logo"
+    "imageType": "flyer"
   },
   {
     "date": "2026-12-10",

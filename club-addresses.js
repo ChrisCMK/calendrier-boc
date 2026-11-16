@@ -15,6 +15,17 @@
   section.setAttribute('aria-labelledby', 'address-title');
   section.innerHTML = `<div class="eyebrow">LE RÉPERTOIRE</div><h2 id="address-title">Adresses des clubs</h2><p class="intro">Choisissez un club dans le menu déroulant pour afficher son adresse et ouvrir Google Maps. Le chapitre est précisé lorsqu’il est connu. Une adresse de flyer correspond au lieu annoncé pour cet événement.</p><p class="muted">Clubs grand patch de Suisse<br>Clubs petit patch de Suisse</p><div class="address-tools"><select id="address-club" class="address-search" aria-label="Choisir le club dont afficher l’adresse"><option value="">Choisir un club</option></select><select id="address-category" aria-label="Catégorie de club"><option value="">MC et AMCC</option><option value="AMCC">AMCC</option><option value="MC">Tous les MC</option><option value="grand">Grand patch</option><option value="petit">Petit patch</option></select><select id="address-known" aria-label="Disponibilité de l’adresse"><option value="all">Tous les clubs</option><option value="known">Adresses connues</option></select></div><p id="address-count" class="muted" aria-live="polite">Chargement des adresses…</p><div id="address-list" class="address-grid"></div>`;
   main.append(section);
+  const addressDialog = document.createElement('dialog');
+  addressDialog.style.cssText = 'width:min(1100px,94vw);max-height:90vh;padding:24px;background:var(--panel,#171717);color:#f5f1e9;border:1px solid #484034;border-radius:14px';
+  const closeAddresses = document.createElement('button');
+  closeAddresses.className = 'tool';
+  closeAddresses.textContent = 'Fermer les adresses ✕';
+  closeAddresses.onclick = () => addressDialog.close();
+  addressDialog.append(closeAddresses, section);
+  document.body.append(addressDialog);
+  links.querySelector('[href="#adresses"]').addEventListener('click', e => {e.preventDefault();addressDialog.showModal();});
+  addressDialog.addEventListener('click', e => {if(e.target === addressDialog) addressDialog.close();});
+  if(location.hash === '#adresses') addressDialog.showModal();
   let addresses = [], directoryWebsites = {}, directoryLogos = {};
   function patchGroup(name){return largePatchClubs.has(name)?'grand':smallPatchClubs.has(name)?'petit':''}
   function categoryMatches(name, category){return !category || (category==='grand'||category==='petit' ? patchGroup(name)===category : categoryOfClub(name)===category)}
