@@ -992,5 +992,25 @@
     "image": "assets/white-beast-open-house-2026-11-12.jpg",
     "note": "Horaire et lieu non précisés sur le flyer. L’affiche publiée le 1er novembre 2026 annonce le prochain Open House le 12 novembre.",
     "source_album_item_id": "IMG_20261101_120251.JPEG"
+  },
+  {
+    "date": "2026-12-04",
+    "time": "19:30",
+    "club": "Les Ours",
+    "title": "Open Bar",
+    "place": "Chemin de la Biole 8, Box 46, 1860 Aigle",
+    "image": "assets/les-ours-open-bar-2026-12-04.jpg",
+    "note": "Food, Drink & Musik · Club privé · Dès 19 h 30.",
+    "imageType": "flyer"
+  },
+  {
+    "date": "2026-11-28",
+    "time": "",
+    "club": "Grupo Motards F.C. Porto",
+    "title": "Convívio Motard · Arroz de cabidela",
+    "place": "Chemin du Marais 6, 1032 Romanel-sur-Lausanne",
+    "image": "assets/grupo-motards-fc-porto-cabidela-2026-11-28.jpg",
+    "note": "25 CHF par personne · Dessert inclus · Réservations : 079 605 99 58. Horaire non indiqué sur le flyer.",
+    "imageType": "flyer"
   }
 ]
